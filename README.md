@@ -12,18 +12,26 @@ This project investigates the multistatic localization of a moving object in pos
 Multistatic Localization of a stationary object by a stationary transmitter at unknown position having unknown time offset:
 
 MSLocJntObjTxPos.m: Algebraic Closed-Form Solution
+
 MSLocJntObjTxPos_MLE.m: Iterative MLE Solution 
+
 MSLocObjPosInd_MLE.m: Iterative MLE Solution by Indirect-path measurements
+
 MSLocObjPosCRLB.m: CRLBs
-Example_Fig6Fig8.m: Fig 6 and 8 Reproduction
+
+Example_Fig6Fig8.m: Figs. 6 and 8 Reproduction
 
 Multistatic Localization of a moving object by a moving transmitter at unknown location having unknown time and frequency offsets:
 
 MSLocJntObjTxPosVel.m: Algebraic Closed-Form Solution
+
 MSLocJntObjTxPosVel_MLE.m: Iterative MLE Solution
+
 MSLocObjPosVelInd_MLE.m: Iterative MLE Solution by Indirect-path measurements 
+
 MSLocObjPosVelCRLB.m: CRLBs
-Example_Fig4Fig7: Example
+
+Example_Fig4Fig7: Figs.4 and 7 Reproduction
 
 # Reference
 
